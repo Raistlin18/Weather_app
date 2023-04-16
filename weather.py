@@ -62,4 +62,4 @@ weather_now = Label(root, text="The Weather is:", font='arial 12 bold').pack(pad
 tfield = Text(root, width=46, height=10)
 tfield.pack()
 
-root.mainloop()
+root.mainlo()
